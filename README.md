@@ -20,7 +20,7 @@ No ads. No pop-ups. Just paste the link and download!
 
 ## 📦 How to Use
 
-1. **Download the EXE file** from [Releases](#) (add your link here)
+1. **Download the EXE file** from [https://github.com/ranjiths112007/youtube-downloder-/raw/refs/heads/main/yt_downloader_gui.exe](#)
 2. Double-click to open the app
 3. Paste any YouTube video URL
 4. Hit **Download**
