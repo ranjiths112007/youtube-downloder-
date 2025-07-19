@@ -20,7 +20,7 @@ No ads. No pop-ups. Just paste the link and download!
 
 ## 📦 How to Use
 
-1. **Download the EXE file** from [https://github.com/ranjiths112007/youtube-downloder-/raw/refs/heads/main/yt_downloader_gui.exe](#)
+1. **Download the EXE file** from [EXE DOWNLODE](https://github.com/ranjiths112007/youtube-downloder-/raw/refs/heads/main/yt_downloader_gui.exe)
 2. Double-click to open the app
 3. Paste any YouTube video URL
 4. Hit **Download**
@@ -54,6 +54,6 @@ Please **respect copyright laws** and only download videos that you're allowed t
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/ranjith-sivashanmugam-800b50288/](#)
-- GitHub: [https://github.com/ranjiths112007](#)
+- LinkedIn: [https://www.linkedin.com/in/ranjith-sivashanmugam-800b50288/](https://www.linkedin.com/in/ranjith-sivashanmugam-800b50288/)
+- GitHub: [https://github.com/ranjiths112007](https://github.com/ranjiths112007)
 - Email: ranjithvijai12345@gmail.com
